@@ -1,0 +1,1 @@
+the list component returns the unordered list and uses useState hook to update index on click and useEffect to fetch data on rendering
